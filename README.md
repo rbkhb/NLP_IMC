@@ -1,15 +1,16 @@
----
-### AU Interacting Minds Centre, NLP Workshop - November 7th 
-#**Stance Detection & Topic Modelling of Social Media Users' Content**  
+-------
+## AU Interacting Minds Centre, NLP Workshop - November 7th 
+
+**Stance Detection & Topic Modelling of Social Media Users' Content**  
 
 *Rebekah Baglini, Luca Nannini, and Arnault-Quentin Vermillet*
 
----
+
 
 ![alt text](https://docs.google.com/drawings/d/e/2PACX-1vTRkUtZJSFMxPWXaidljOqwNDnFTLb4E3GWB6AsqVfcWdYKsI4y9f8EaCz2yozWRe4I8vnvePngC-TM/pub?w=1393&h=614)
 
 
-### **Program**
+### Program
 
 1. Data Preprocessing 
  - Load Dataset 
@@ -26,7 +27,7 @@
  - Visualize cosine metrics of topics as a heatmap  
  - HDP and LDA via Gensim Models
 
-### **Datasets**
+### Datasets
 
 Vacc_tweets_raw_n5000.csv
   * Random sample of 5000 (out of > 1 million) tweets from 2019 containing string 'vaccin'
