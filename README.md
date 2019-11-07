@@ -18,14 +18,13 @@
  - Clean Tweets Strings with Regular Expressions
  - Lemmatization/Stemming
 
-2. Stances Detection 
- - OpenAI's transformer for detecting stances on Twitter
-
-3. Hierarchical Dirichlet Process 
+2. Topic modeling
  - Create, Run, and Train the HDP model via Gensim 
  - Visualize topics through an interactive graphs - pyLDAvis 
  - Visualize cosine metrics of topics as a heatmap  
  - HDP and LDA via Gensim Models
+
+ 3. Supervised text classification with BERT
 
 ### Datasets
 
@@ -58,6 +57,3 @@ Vacc_tweets_w_stance_n1131.csv
 * During the tutorial, we will be working from a Google Colab notebook. This means you will not have to install or load anything locally. 
 * If you'd like to run locally, we've included list of dependencies in Requirements.txt
 
-
-
-  
